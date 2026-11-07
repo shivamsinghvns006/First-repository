@@ -1,4 +1,4 @@
 # First-repository
 My first git repository.
 <br>
-Author - Shivam 
+Author - Shivam Kumar Singh
